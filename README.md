@@ -1,2 +1,2 @@
 # javaProjects
-Collection of projects completed in Java 
+This repository is a collection of projects and assignments completed in Java. 
